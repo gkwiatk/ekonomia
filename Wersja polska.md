@@ -2,7 +2,7 @@
 date: 2021-06-19T14:00
 ---
 
-# Wersja polska
+# Wprowadzenie
 
 Współczesne podręczniki akademickie, w tym również podręczniki do ekonomii, osiągają ogromne, rozmiary licząc kilkaset czy nawet niekiedy ponad tysiąc stron. I to jest ogromny problem.
 
