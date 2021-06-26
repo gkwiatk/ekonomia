@@ -13,4 +13,5 @@ Czym do diaska jest owa gospodarka?
 Możemy na to pytanie odpowiedzieć z co najmniej dwóch, bardzo różnych perspektyw.
 
 1. [[Gospodarka to radzenie sobie z niedoborem]]
-2. [[Gospodarka to rzeczy w niewłaściwych miejscach]]
+2. [[Gospodarka to rzeczy w niewlasciwych miejscach]]
+
