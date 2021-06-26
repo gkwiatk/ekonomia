@@ -3,6 +3,8 @@ dirtree:
   display: true
 ---
 
+# Strona główna
+
 
 Współczesne podręczniki akademickie, w tym również podręczniki do ekonomii[^1], osiągają ogromne, rozmiary licząc kilkaset czy nawet niekiedy ponad tysiąc stron. I to jest ==ogromny== problem.
 
