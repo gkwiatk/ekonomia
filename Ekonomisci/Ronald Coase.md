@@ -1,7 +1,7 @@
 ---
 date: 2021-06-26T22:29
 tags:
-- ekonomiści/instytucjonalna
+- ekonomisci/instytucjonalna
 - ekonomisci/XX_wiek
 - strona
 ---
