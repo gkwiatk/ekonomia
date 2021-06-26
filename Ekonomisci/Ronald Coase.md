@@ -9,3 +9,4 @@ tags:
 # Ronald Coase
 
 Coase był niezwykłym ekonomistą z kilku powodów. 
+@
