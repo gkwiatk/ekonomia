@@ -1,6 +1,6 @@
 ---
 dirtree:
-  display: false
+  display: true
 ---
 
 
