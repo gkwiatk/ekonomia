@@ -3,6 +3,7 @@ Współczesne podręczniki akademickie, w tym również podręczniki do ekonomii
 Autorzy tych, niewątpliwie niezwykle ciekawych i możliwie kompletnych opracowań współczesnej wiedzy ekonomicznej, trafiają na czytelnika, dla którego naturalnym środowiskiem zdobywania wiedzy nie jest systematyczne studiowanie grubych ksiąg. Trafiają na czytelnika, dla którego podstawowym działaniem jest klikanie. 
 
 # Index
+* [[Co to jest ekonomia]]
 * [[Jak byc ekonomista]]
 
 
