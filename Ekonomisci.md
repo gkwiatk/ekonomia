@@ -4,6 +4,6 @@ tags:
   - strona
 ---
 
-# Fashion
+# Ekonomiści
 
 [[[z:zettels?tag=ekonomisci]]]
