@@ -10,7 +10,7 @@ Autorzy tych, niewątpliwie niezwykle ciekawych i możliwie kompletnych opracowa
 
 # Spis treści
 * [[Co to jest ekonomia]]
-* [[Jak być ekonomistą|Jak byc ekonomista]]
+* [[Jak byc ekonomista]]
 
 
 # Ostatnio dodane strony:
