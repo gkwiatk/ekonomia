@@ -7,3 +7,4 @@
 
 # Inne
 * [English](https://gkwiatk.github.io/economics/)
+* Oparte na [neuron](https://neuron.zettel.page/)
