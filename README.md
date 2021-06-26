@@ -1,2 +1,2 @@
 # Informacje
-To repozytorium zawiera demo podręcznika do ekonomii. Opart jest o mechanizm [neuron](https://neuron.zettel.page).
+To repozytorium zawiera demo podręcznika do ekonomii. Oparte jest o mechanizm [neuron](https://neuron.zettel.page).
