@@ -6,4 +6,4 @@ tags:
 
 # Ekonomiści
 
-[[[z:zettels?tag=ekonomisci]]]
+[[z:zettels?tag=root/ekonomisci/*&grouped&showid]]
