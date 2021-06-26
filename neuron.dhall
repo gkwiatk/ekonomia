@@ -6,5 +6,4 @@
 , theme = "blue"
 -- This is used in the "edit" button
 , editUrl = Some "https://github.com/gkwiatk/ekonomia/edit/master/"
-, plugins = [ "neuronignore", "links", "uptree", "feed", "tags", "dirtree" ]
 }
