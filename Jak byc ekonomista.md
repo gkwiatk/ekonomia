@@ -1,5 +1,6 @@
 ---
 date: 2021-06-26T16:10
+slug: jak-byc
 tags:
 - strona
 ---
