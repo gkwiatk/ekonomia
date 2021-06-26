@@ -8,5 +8,4 @@ tags:
 
 # Ronald Coase
 
-Coase był niezwykłym ekonomistą z kilku powodów. 
-@
+Coase był niezwykłym ekonomistą z kilku powodów. Opublikował w życiu jedynie kilka tekstów, lecz każdy z nich...
