@@ -1,6 +1,6 @@
 # Index
 * [[Wprowadzenie]]
-* [[Jak być ekonomista]]
+* [[Jak byc ekonomista]]
 
 
 # Ostatnio dodane strony:
