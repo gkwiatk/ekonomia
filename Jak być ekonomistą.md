@@ -4,7 +4,7 @@ tags:
 - strona
 ---
 
-# Jak być ekonomistą2
+# Jak być ekonomistą
 
 Często w podręcznikach ekonomicznych znajdziemy rozdział typu "Myśleć jak ekonomista" lub "Zostać ekonomistą". Zwykle umieszczony
 
