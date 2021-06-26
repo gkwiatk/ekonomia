@@ -1,8 +1,16 @@
 ---
 date: 2021-06-26T16:12
+tags:
+- strona
 ---
 
 # Co to jest ekonomia?
 
-Write your Markdown content here. Read [neuron documentation](https://neuron.zettel.page/2011404.html) for syntax help.
+Ekonomia to nauka o gospodarce, o tym jak jakie mechanizmy nią rządzą, jak ona funkcjonuje i jak się zmienia. Jednak poprzestanie jedynie na takim stwierdzeniu (ekonomia to nauka o gospodarce) może wprawić czytelnika w lekką konfuzję.
 
+Czym do diaska jest owa gospodarka?
+
+Możemy na to pytanie odpowiedzieć z co najmniej dwóch, bardzo różnych perspektyw.
+
+1. [[Gospodarka to radzenie sobie z niedoborem]]
+2. [[Gospodarka to rzeczy w niewłaściwych miejscach]]
