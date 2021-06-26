@@ -2,7 +2,8 @@
 date: 2021-06-26T16:10
 ---
 
-# Jak byc ekonomista
+# Jak być ekonomistą
 
-Write your Markdown content here. Read [neuron documentation](https://neuron.zettel.page/2011404.html) for syntax help.
+Często w podręcznikach ekonomicznych znajdziemy rozdział typu "Myśleć jak ekonomista" lub "Zostać ekonomistą". Zwykle umieszczony
 
+Zgadzając się w pełni z ideą zamieszczania takiego rozdziału, proponujemy pójście o krok dalej. Uważamy, że nie wystarczy, żeby przeczytać taki rozdział raz, na początku przygody z nauką ekonomii. Trzeba, niczym trenując pewne zagrania w sporcie, aktywnie utrwalać i przypominać o podstawowych nawykach myślenia.
