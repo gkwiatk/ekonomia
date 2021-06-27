@@ -8,7 +8,7 @@ tags:
 
 Ekonomia to nauka o gospodarce, o tym jak jakie mechanizmy nią rządzą, jak ona funkcjonuje i jak się zmienia. Jednak poprzestanie jedynie na takim stwierdzeniu (ekonomia to nauka o gospodarce) może wprawić czytelnika w lekką konfuzję.
 
-Czym do diaska jest owa gospodarka?
+Czym jest owa gospodarka?
 
 Możemy na to pytanie odpowiedzieć z co najmniej dwóch, bardzo różnych perspektyw.
 
