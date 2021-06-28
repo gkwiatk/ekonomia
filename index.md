@@ -4,11 +4,9 @@ dirtree:
 ---
 
 # Strona główna
+Ta strona jest eksperymentem łączącym elementy podręcznika do ekonomii z koncepcją _digital garden_.
 
-
-Współczesne podręczniki akademickie, w tym również podręczniki do ekonomii[^1], osiągają ogromne, rozmiary licząc kilkaset czy nawet niekiedy ponad tysiąc stron. I to jest ==ogromny== problem.
-
-Autorzy tych, niewątpliwie niezwykle ciekawych i możliwie kompletnych opracowań współczesnej wiedzy ekonomicznej, trafiają dziś na czytelnika, dla którego naturalnym środowiskiem zdobywania wiedzy nie są grube księgi i ich systematyczne studiowanie. Trafiają na czytelnika, dla którego nieodłącznym elementem w procesie zdobywania wiedzy jest klikanie, przeglądanie (skimming) i mieszanie rozwrywki z poznaniem. 
+[[Wprowadzenie]]
 
 ## [[Mikroekonomia]]
 ### [[Ekonomia jako nauka]]
