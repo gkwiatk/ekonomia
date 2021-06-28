@@ -22,5 +22,3 @@ Ta strona jest eksperymentem łączącym elementy podręcznika do ekonomii z kon
 ## Inne
 * [English](https://gkwiatk.github.io/economics/)
 * Oparte na [neuron](https://neuron.zettel.page/)
-
-[^1]: Ostatnie wydanie prawdopodobnie najbardziej popularnego  podręcznika w historii, a więc *Ekonomii* Samuelsona i Nordhausa, liczy 728 stron.
