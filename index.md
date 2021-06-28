@@ -4,7 +4,7 @@ dirtree:
 ---
 
 # Strona główna
-Ta strona jest eksperymentem łączącym elementy podręcznika do ekonomii z koncepcją _digital garden_.
+Strona jest eksperymentem łączącym elementy podręcznika do ekonomii z koncepcją _digital garden_.
 
 [[Wprowadzenie]]
 
